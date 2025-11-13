@@ -1,4 +1,4 @@
-# 🏰 Castle Defender – Proteja a Princesa
+# 🏰 Castle Defender
 
 ## 🎮 Descrição do Jogo e Controles
 **Castle Defender** é um jogo em terceira pessoa desenvolvido no Unity, em que o jogador precisa **defender o castelo** contra ondas de monstros que surgem pelo mapa.  
