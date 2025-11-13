@@ -22,7 +22,7 @@ Seu objetivo é simples e decisivo: **eliminar todos os inimigos antes que eles 
 ---
 
 ## 📹 Vídeo do Jogo em Execução (Gameplay)
-👉 **[Assista ao gameplay aqui](INSIRA_O_LINK_DO_VÍDEO_AQUI)**  
+👉 **[Assista ao gameplay aqui](https://drive.google.com/file/d/1DM6l03nIvOVLH-LN4F8T35RGeFQhOWw1/view?usp=sharing)**  
 
 ---
 
